@@ -1,0 +1,31 @@
+body
+{
+	background-image: url(page.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.space
+{
+	margin-top: 23%;
+}
+.space1
+{
+	padding-top: 170px;
+}
+.btn-danger
+{
+	background-color: #F05F44;
+	border-color:#F05F44;
+}
+.btn-danger:hover
+{
+	background-color: #ee4b08;
+	border-color: #ee4b08;
+	font-color:white;
+}
+.btn
+{
+	border-radius: 300px;
+	text-transform: uppercase;
+	font-weight: 700;
+}
